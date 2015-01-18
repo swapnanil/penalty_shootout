@@ -1,7 +1,7 @@
 penalty_shootout
 ================
 
-My first software which I wrote 2 years back, a football-penalty shootout game.
+A simple football-penalty shootout game.
 
 I had made this game as an academic project in class 12.
 
